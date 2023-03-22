@@ -1,7 +1,7 @@
 <h2 align="center">About me</h2>
 
 <div>
-  <img align="left" width="200" src="https://cdn-icons-png.flaticon.com/512/5986/5986315.png">
+  <img align="left" width="180" src="https://cdn-icons-png.flaticon.com/512/5986/5986315.png">
   <p>Hi there👋🏻 My name is Zaide Kurti, and I'm a Full-Stack Developer based in Berlin, Germany. I love building web applications, and I'm committed to creating intuitive user experiences that make people's lives easier.</p>
 </div>
 
