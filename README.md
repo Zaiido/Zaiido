@@ -1,7 +1,7 @@
 <h2 align="center">About me</h2>
 
 <div>
-  <img align="left" width="180" src="https://cdn-icons-png.flaticon.com/512/5986/5986315.png">
+  <img align="left" width="250" src="https://cdn-icons-png.flaticon.com/512/5986/5986315.png">
   <p>Hi there👋🏻 My name is Zaide Kurti, and I'm a Full-Stack Developer based in Berlin, Germany. I love building web applications, and I'm committed to creating intuitive user experiences that make people's lives easier.</p>
 </div>
 
@@ -22,5 +22,4 @@
 <img align="left" alt="NodeJS" width="32px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
 <img align="left" alt="HTML" width="32px" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" />
 <img align="left" alt="Python" width="32px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" />
-<img align="left" alt="Git" width="32px" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"/>
 
