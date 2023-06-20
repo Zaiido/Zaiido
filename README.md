@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-If you have any exciting projects or opportunities you'd like to discuss, feel free to reach out to me via email at [zaidekurti@gmail.com](mailto:zaidekurti@gmail.com)  or connect with me on LinkedIn at [LinkedIn](https://www.linkedin.com/in/zaide-kurti-o1920) . 
+If you have any exciting projects or opportunities you'd like to discuss, feel free to reach out to me via email at [zaidekurti@gmail.com](mailto:zaidekurti@gmail.com)  or connect with me on [LinkedIn](https://www.linkedin.com/in/zaide-kurti-o1920) . 
 
 
 # 💻 Tech Stack:
