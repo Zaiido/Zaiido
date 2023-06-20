@@ -5,7 +5,7 @@
   <p>Hi there👋🏻 My name is Zaide Kurti, and I'm a Full-Stack Developer based in Berlin, Germany. I love building web applications, and I'm committed to creating intuitive user experiences that make people's lives easier.</p>
 </div>
 
-### Contact me
+## 🌐 Socials:
 
 ✉️ Feel free to reach out to me via email at [zaidekurti@gmail.com](mailto:zaidekurti@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zaide-kurti-o1920/).
 
