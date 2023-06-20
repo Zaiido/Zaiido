@@ -1,4 +1,4 @@
-<h2 align="center">About me</h2>
+# 💫 About Me:
 
 <div>
   <img align="left" width="250" src="https://cdn-icons-png.flaticon.com/512/5986/5986315.png">
